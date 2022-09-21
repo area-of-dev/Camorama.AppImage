@@ -1,0 +1,1 @@
+# Camorama.AppImage
